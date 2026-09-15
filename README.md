@@ -1,5 +1,3 @@
-
-
 ### Mechanical Engineering | Robotics | Mechanism Design | CAD
 
 I'm a Mechanical Engineering student at **COEP Technological University** with a strong interest in **robotics, electric vehicles, mechanism design, and sustainable engineering solutions**. I enjoy turning engineering concepts into functional prototypes and working across design, manufacturing, and electronics teams.
@@ -105,6 +103,3 @@ Researching linear actuation mechanisms for future Robocon robots, including:
 - **Email:** prakashpk24.mech@coeptech.ac.in
 - **LinkedIn:** [https://www.linkedin.com/in/kshitijpawar18]
 
-
-
-print(f"Created: {output_path}")
