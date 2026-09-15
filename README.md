@@ -1,6 +1,4 @@
-import pypandoc
 
-readme = r"""# Hi, I'm Kshitij Pawar 👋
 
 ### Mechanical Engineering | Robotics | Mechanism Design | CAD
 
@@ -105,22 +103,8 @@ Researching linear actuation mechanisms for future Robocon robots, including:
 ## 📫 Contact
 
 - **Email:** prakashpk24.mech@coeptech.ac.in
-- **LinkedIn:** Add your LinkedIn profile URL here
+- **LinkedIn:** [https://www.linkedin.com/in/kshitijpawar18]
 
----
 
-> **Design. Build. Test. Improve.**
->
-> Exploring robotics and mechanical engineering through hands-on problem solving and continuous learning.
-"""
-
-output_path = "/mnt/data/README.md"
-pypandoc.convert_text(
-    readme,
-    "md",
-    format="md",
-    outputfile=output_path,
-    extra_args=["--standalone"]
-)
 
 print(f"Created: {output_path}")
